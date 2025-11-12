@@ -1,0 +1,23 @@
+{
+  "Donkey Kong": {
+    "Back Air": 31,
+    "Dash Attack": 34,
+    "Down Air": 54,
+    "Down B (Hand Slap)": 46,
+    "Down Smash": 55,
+    "Down Tilt": 24,
+    "Forward Air": 55,
+    "Forward Smash": 55,
+    "Forward Tilt": 34,
+    "Jab 1": 24,
+    "Jab 2": 31,
+    "Neutral Air": 38,
+    "Neutral B (Giant Punch)": 62,
+    "Side B (Headbutt)": 62,
+    "Up Air": 37,
+    "Up B (Air)": 38,
+    "Up B (Spinning Kong)": 104,
+    "Up Smash": 49,
+    "Up Tilt": 38
+  }
+}
